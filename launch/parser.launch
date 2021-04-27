@@ -1,0 +1,4 @@
+<launch>
+  <node name="jetbot_luis_cmd_parser" pkg="jetbot_luis_cmd_parser" type="cmd_parser.py" output="screen">
+  </node>
+</launch>
